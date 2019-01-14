@@ -1,2 +1,2 @@
 all:
-	echo "Cool, we're building $(BRANCH) so there"
+	echo "Cool, we're building $(BRANCH) in a noodly fashion"
